@@ -7,5 +7,4 @@
             <class name="Commerce.Test.SearchCustomer"/>
         </classes>
     </test>
-
 </suite>
