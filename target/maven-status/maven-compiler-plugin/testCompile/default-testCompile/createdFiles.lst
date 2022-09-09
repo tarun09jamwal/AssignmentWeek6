@@ -1,0 +1,4 @@
+Commerce\Page\PageFactory.class
+Commerce\Test\BaseClass.class
+Commerce\Test\SearchCustomer.class
+Commerce\Page\LoginPage.class
